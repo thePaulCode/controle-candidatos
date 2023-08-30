@@ -1,18 +1,24 @@
-## Getting Started
+# Projeto Processo Seletivo em Java
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+@author: thePaulCode 
+## 🚀 Sobre o Projeto
 
-## Folder Structure
+Este projeto é uma simulação de um processo seletivo para candidatos, implementado em Java. O programa avalia o valor de salário pretendido pelo candidato em relação ao salário base da empresa e toma decisões com base nessa comparação.
 
-The workspace contains two folders by default, where:
+## 📋 Funcionalidades
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+- 👍 Candidato é **selecionado** se o valor de salário pretendido for **menor** que o salário base.
+- ⏳ Candidato é **aguardado** para o processo de seleção se o valor for **maior** que o salário base.
+- ☎️ Candidato recebe uma **contraproposta** se o valor for **igual** ao salário base.
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+## 📚 Recursos Utilizados
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+O projeto demonstra o uso de:
 
-## Dependency Management
+- 📝 **Métodos**: Para melhor organização e modularização do código.
+- 🔄 **Controles de Fluxo**: Utilizados para tomar decisões com base nas condições estabelecidas.
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+Este projeto foi criado com o objetivo de avaliar habilidades em programação Java, métodos e controle de fluxo. Sinta-se à vontade para explorar e modificar o código para sua compreensão e aprendizado.
+
+Para suporte ou dúvidas, entre em contato conosco.
+
